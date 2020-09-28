@@ -1,0 +1,21 @@
+{
+    "name": "anyfiddle-dark-theme",
+    "displayName": "Anyfiddle Dark Theme",
+    "description": "Dark theme for Anyfiddle",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Anyfiddle Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Anyfiddle Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
