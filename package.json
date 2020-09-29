@@ -2,6 +2,7 @@
     "name": "anyfiddle-dark-theme",
     "displayName": "Anyfiddle Dark Theme",
     "description": "Dark theme for Anyfiddle",
+    "publisher": "anyfiddle",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
