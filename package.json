@@ -7,6 +7,9 @@
     "engines": {
         "vscode": "^1.49.0"
     },
+    "scripts": {
+        "package": "./package.sh"
+    },
     "categories": [
         "Themes"
     ],
