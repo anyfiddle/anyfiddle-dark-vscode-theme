@@ -28,20 +28,20 @@
 		"list.dropBackground": "#333",
 
 		"activityBar.activeBackground": "#333",
-		"activityBar.background": "#1d1d1d",
-		"activityBar.border": "#333",
+		"activityBar.background": "#262626",
+		"activityBar.border": "#262626",
 		"activityBar.foreground": "#ccc",
 		"activityBar.activeBorder": "#aaa",
 		"activityBar.activeFocusBorder": "#aaa",
 		"activityBarBadge.background": "#008900",
 		"activityBarBadge.foreground": "#fff",
 
-		"sideBar.background": "#1d1d1d",
+		"sideBar.background": "#222",
+		"sideBar.border": "#222",
 		"sideBarTitle.foreground":"#999",
-		"sideBar.border": "#333",
 		"sideBarSectionHeader.background": "#222",
 		"sideBarSectionHeader.foreground": "#ccc",
-		"sideBarSectionHeader.border": "#333",
+		"sideBarSectionHeader.border": "#222",
 
 		
 		"tab.activeBackground": "#1d1d1d",
@@ -58,8 +58,8 @@
 
 		"panelTitle.activeForeground": "#ccc",
 		
-		"statusBar.background": "#1d1d1d",
-		"statusBar.foreground": "#999",
+		"statusBar.background": "#333",
+		"statusBar.foreground": "#ccc",
 		"statusBar.border": "#333",
 
 		"notifications.background": "#1d1d1d",
